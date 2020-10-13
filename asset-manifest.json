@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-node-client-demo/static/css/main.da930659.chunk.css",
+    "main.js": "/react-node-client-demo/static/js/main.2c7e501c.chunk.js",
+    "main.js.map": "/react-node-client-demo/static/js/main.2c7e501c.chunk.js.map",
+    "runtime-main.js": "/react-node-client-demo/static/js/runtime-main.1e4488af.js",
+    "runtime-main.js.map": "/react-node-client-demo/static/js/runtime-main.1e4488af.js.map",
+    "static/js/2.2e429215.chunk.js": "/react-node-client-demo/static/js/2.2e429215.chunk.js",
+    "static/js/2.2e429215.chunk.js.map": "/react-node-client-demo/static/js/2.2e429215.chunk.js.map",
+    "index.html": "/react-node-client-demo/index.html",
+    "precache-manifest.01b6ba1df32aa14ae300e264cec51d5e.js": "/react-node-client-demo/precache-manifest.01b6ba1df32aa14ae300e264cec51d5e.js",
+    "service-worker.js": "/react-node-client-demo/service-worker.js",
+    "static/css/main.da930659.chunk.css.map": "/react-node-client-demo/static/css/main.da930659.chunk.css.map",
+    "static/js/2.2e429215.chunk.js.LICENSE.txt": "/react-node-client-demo/static/js/2.2e429215.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/react-node-client-demo/static/media/Nunito-Bold.aec91db0.eot",
+    "static/media/style.css": "/react-node-client-demo/static/media/icomoon.f25c7ae2.svg",
+    "static/media/startScreen.module.scss": "/react-node-client-demo/static/media/start_background.b9a91179.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e4488af.js",
+    "static/js/2.2e429215.chunk.js",
+    "static/css/main.da930659.chunk.css",
+    "static/js/main.2c7e501c.chunk.js"
+  ]
+}
